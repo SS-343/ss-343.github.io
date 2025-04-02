@@ -1,0 +1,7 @@
+---
+title: Website Creation
+date: 2025-04-02 HH:MM:SS +/-TTTT
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [TAG]     # TAG names should always be lowercase
+---
+Test
