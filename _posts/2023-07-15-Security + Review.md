@@ -20,9 +20,9 @@ Professor Messer has a free YouTube video series online that covers all the requ
 This was my first cyber certification so I really hammered down on studying. This certification is more content heavy and like other CompTIA exams, it is a mile wide but only an inch deep. It`s overall worth it as more and more internships are wanting to see security+. 
 
 ## Links to Resources mentioned:
-- TestOut: https://w3.testout.com/courseware/security-pro (Price Varies)
-- Dion Udemy Tests: https://www.udemy.com/course/security-601-exams/ ($20)
-- Cyberkraft YT; https://www.youtube.com/@cyberkraft539
+- [TestOut (Price Varies)](https://w3.testout.com/courseware/security-pro)
+- [Dion Udemy Tests ($20)](https://www.udemy.com/course/security-601-exams/)
+- [Cyberkraft YT](https://www.youtube.com/@cyberkraft539)
 
 Thank you for reading!
 
