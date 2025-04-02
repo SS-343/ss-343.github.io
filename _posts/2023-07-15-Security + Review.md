@@ -2,9 +2,9 @@
 title: Security+ Review
 date: 2023-07-15 12:30:00 -0400
 categories: [Certifications, Reviews]
-tags: Security+ CompTIA
+tags: Security+ CompTIA Sec+ Certifications Messer Study Review
 ---
-# CompTIA Security+ (SEC) Review
+# CompTIA Security+ (Sec+) Review
 Note: Links to resources are at the bottom of the page. 
 
 ## How I studied
