@@ -6,7 +6,7 @@ tags: HTTP smuggling Nginx CSAW Web Burpsuite
 ---
 
 ![Smug_Dino_Alt_Text](../assets/img/Dinoapture.JPG.jpg)
-![Smug_Dino_Alt_Text](../assets/img/Captssssure.JPG.jpg)
+![Smug_Dino_Alt_Text](../assets/img/Cssssapture.JPG.jpg)
 ![Smug_Dino_Alt_Text](../assets/img/Capdddddture.JPG.jpg)
 ![Smug_Dino_Alt_Text](../assets/img/Captssssure.JPG.jpg)
 ![Smug_Dino_Alt_Text](../assets/img/Cddddddddddddddapture.JPG.jpg)
