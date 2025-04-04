@@ -51,7 +51,7 @@ Given that we are trying to retrieve a flag from a nginx server version 1.17.6, 
 
 ## Preparing the exploit:
 
-According to [Portswigger](http://portswigger.net) “the HTTP/1 specification provides two different ways to specify where a request ends: the Content-Length header and the Transfer-Encoding header.” The vulnerability arises when the front end interprets the request differently from the backend. For the HTTP/1 specification, if both are used at the same time they can conflict with each other. If both of the headers (Content-Length and Transfer-Encoding) are included, then Content-Length is ignored. 
+According to [Portswigger](https://portswigger.net) “the HTTP/1 specification provides two different ways to specify where a request ends: the Content-Length header and the Transfer-Encoding header.” The vulnerability arises when the front end interprets the request differently from the backend. For the HTTP/1 specification, if both are used at the same time they can conflict with each other. If both of the headers (Content-Length and Transfer-Encoding) are included, then Content-Length is ignored. 
 
 Transfer encoding specifies the form of encoding used to transfer the payload. One option for transfer encoding is chunked, which means the message contains one or more chunks of data terminated by a chunk of size 0.
 
@@ -69,7 +69,7 @@ And nice! We got the flag `csawctf{d0nt_smuggl3_Fla6s_!}`
 
 ## Resources:
 - [Portswigger Req. Smuggling](https://portswigger.net/web-security/request-smuggling)
-  - Portswigger is a fantastic resource for all things Web Security^^^^
+  - Portswigger is a fantastic resource for all things Web Security ^^^^
 - [HackTricks HTTP Req. Smuggling](https://book.hacktricks.xyz/pentesting-web/http-request-smuggling)
 - [Mozilla Developer Docs Transfer-Encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding)
 
