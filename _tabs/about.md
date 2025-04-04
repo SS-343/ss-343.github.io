@@ -9,7 +9,7 @@ order: 4
  - Security Opererations Center Analyst
 
 ## Academia 
- - University of South Florida (USF) Bachelors of science in Cybersecurity (Expected: May 2025)
+ - University of South Florida (USF) Bachelors of Science in Cybersecurity (Expected: May 2025)
      - Intelligence Studies Minor
 
 ## Certifications
@@ -34,7 +34,9 @@ order: 4
 
 ## Extracurricular Activities
 - USF CyberHerd Colligate Cybersecurity Competition Team
+  - Team member 
 - WhiteHatters Computer Security Club (WCSC) at USF
+  - Head of Operations, Treasurer, Red Team Teacher, Member
 - ReliaQuest Cybersecurity Labs Program
 - Rapid7 Cyber Threat Intelligence Research Lab Participant
 
