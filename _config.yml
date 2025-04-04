@@ -56,6 +56,9 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+head_scripts:
+  - assets/cat/oneko.js
+
 # Web Analytics Settings
 analytics:
   google:
