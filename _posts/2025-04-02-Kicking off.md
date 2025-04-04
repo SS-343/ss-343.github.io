@@ -10,26 +10,15 @@ Hey! Thank you for taking time to check out my new website! I plan on posting ce
 
 \- Sharp
 
-
-
-
-
-
-
-
-
-
-
-<div><br></br></div>
-
-
-
+<div><br></div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="../assets/gifs/amd_powered.gif" alt="GIF 1" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/coffee.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/firefox3.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/geocities_skyline.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/next_game.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/volta.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/wcpower.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
+  <img src="../assets/gifs/amd_powered.gif" alt="GIF 1" style="max-width: 100%; height: auto; margin: 5px;">
+  <img src="../assets/gifs/coffee.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
+  <img src="../assets/gifs/firefox3.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
+  <img src="../assets/gifs/geocities_skyline.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
+  <img src="../assets/gifs/next_game.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
+  <img src="../assets/gifs/volta.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
+  <img src="../assets/gifs/wcpower.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
+  <img src="../assets/gifs/netscapenow2.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
+  
 </div>
