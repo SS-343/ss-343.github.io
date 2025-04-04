@@ -20,7 +20,7 @@ Hey! Thank you for taking time to check out my new website! I plan on posting ce
 
 
 
-<br></br>
+<div><br></br></div>
 
 
 
@@ -31,7 +31,5 @@ Hey! Thank you for taking time to check out my new website! I plan on posting ce
   <img src="../assets/gifs/geocities_skyline.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
   <img src="../assets/gifs/next_game.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
   <img src="../assets/gifs/volta.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/poweredbyasm_88x31.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
   <img src="../assets/gifs/wcpower.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
-  <img src="../assets/gifs/deadlyprogramming.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 10px;">
 </div>
