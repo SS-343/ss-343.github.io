@@ -6,6 +6,8 @@ tags: Security+ CompTIA Sec+ Certifications Messer Study Review
 ---
 Note: Links to resources are at the bottom of the page. 
 
+[Accreditation Link](https://www.credly.com/badges/098f8190-7e57-4d69-9073-462bc3b15fc1/public_url)
+
 ## How I studied
 I utilized the TestOut software which included pdf notes, videos, labs, quizzes, and a test at the end of the course. The content was good, but it taught things in addition to security+ so you could pass their own in house version of security+. I really only wanted to study security+ and could care less about their own certification but the material was so intertwined you couldn't get around it. The labs were nice, but 10% of the time, they would break and it'd be really annoying to reload everything. I took notes on every video and completed 95% of the labs. The end of section quizzes were close to what compTIA has in their study guides.After completing the course, I created a stack of about 300 flash cards with various terms from the objectives sheet and other things that could fall under a blanket term within the objectives. After several days of going through the stack I started taking practice exams.  I bought Jason Dions Security+ exams on Udemy and was scoring mid 80s. After browsing reddit and seeing how peoples scores translate to the actual test I believed I was ready. 
 
@@ -40,3 +42,4 @@ Thank you for reading!
   <img src="../assets/gifs/netscapenow2.gif" alt="GIF 2" style="max-width: 100%; height: auto; margin: 5px;">
   
 </div>
+
