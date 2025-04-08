@@ -11,6 +11,7 @@ order: 4
 ## Academia 
  - University of South Florida (USF) Bachelors of Science in Cybersecurity (Expected: May 2025)
      - Intelligence Studies Minor
+ - University of South Florida (USF) Masters of Science in Cybersecurity (Expected: December 2026)
 
 ## Certifications
  - [Altered Security Certified Red Team Professional (CRTP)](https://www.credential.net/90dd4610-555c-4f07-88df-e7265bbe689c#acc.Bne6rNwq)
@@ -25,7 +26,7 @@ order: 4
 - [2025] SouthEast Collegiate Cyber Defense Competition Qualifiers
   - Advanced to regionals
 - [2025] NCAE Cybergames
-  - 3rd place as a team, MVP Award as a Individual
+  - 3rd place as a team, [MVP Award as a Individual](https://badgr.com/public/assertions/TKpLjsuoRraJ1HFRo8PuVg?identity__email=gstevens215@usf.edu)
 - [2024] HiveStorm 2024
   - Top 5%
 - [2024] Naval Surface Warfare Center Dahlgren Division National CRAM Challenge
