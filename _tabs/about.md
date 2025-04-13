@@ -37,7 +37,7 @@ order: 4
 - USF CyberHerd Colligate Cybersecurity Competition Team
   - Team member 
 - WhiteHatters Computer Security Club (WCSC) at USF
-  - Head of Operations, Red Team Teacher, Treasurer, Member
+  - Head of Operations, Red Team Teacher, Treasurer, CTF Architect, Member
 - [ReliaQuest Cybersecurity Labs Program](https://www.credly.com/badges/72118d4a-15f8-40fe-890d-cb3d990cb2db/linked_in_profile)
 - Rapid7 Cyber Threat Intelligence Research Lab Participant
 
