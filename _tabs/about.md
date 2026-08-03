@@ -6,7 +6,7 @@ order: 4
 
 
 ## Current Role
- - Security Operations Center Analyst
+ - Security Consultant Intern
 
 ## Academia 
  - University of South Florida (USF) Bachelors of Science in Cybersecurity
@@ -14,6 +14,9 @@ order: 4
  - University of South Florida (USF) Masters of Science in Cybersecurity (Expected: December 2026)
 
 ## Certifications
+ - [HTB Certified Penetration Testing Specialist (CPTS)](https://www.credly.com/badges/b7c6a49b-6fa7-4f6a-a9b8-ac4d157af9b0/public_url)
+ - [Zero Point Certified Red Team Operator (CRTO)](https://certs.zeropointsecurity.co.uk/a0631b26-a542-4083-be59-f8875cb6aee8#acc.u3Ch61NG)
+ - [Offensive Security Certified Professional (OSCP+)](https://credentials.offsec.com/ca5090e1-ad3a-481f-8275-cc704807d675#acc.p30n8FaA)
  - [Altered Security Certified Red Team Professional (CRTP)](https://www.credential.net/90dd4610-555c-4f07-88df-e7265bbe689c#acc.Bne6rNwq)
  - [CompTIA Security Analytics Professional](https://www.credly.com/badges/b0a8ac49-b815-4c34-ae76-25ab34213bd1)
  - [CompTIA Cybersecurity Analyst+ (CySA+)](https://www.credly.com/badges/0dc73e77-cd94-47a5-a4ba-11644b6dfa24)
@@ -40,12 +43,15 @@ order: 4
   -  Where teams develop algorithms to measure a system’s Cyber Defensive Capabilities against full spectrum threats and calculate the probability of failure against threat profiles.
 
 
-## Extracurricular Activities
+## Extracurricular Activities 
 - USF CyberHerd Colligate Cybersecurity Competition Team
-  - Red team member 
+  - Red Team Captain 
 - WhiteHatters Computer Security Club (WCSC) at USF
   - Head of Operations, Red Team Teacher (Current Role), Treasurer, CTF Architect, Member
 - [ReliaQuest Cybersecurity Labs Program](https://www.credly.com/badges/72118d4a-15f8-40fe-890d-cb3d990cb2db/linked_in_profile)
 - Rapid7 Cyber Threat Intelligence Research Lab Participant
-	- Participated in a non conventional investigation of a compromised environment from the perspective of a Security Analyst. Raw logs were used to break down and investigate a complete Kill Chain within a mock Active Directory enterprise. 
+	- Participated in a non conventional investigation of a compromised environment from the perspective of a Security Analyst. Raw logs were used to break down and investigate a complete Kill Chain within a mock Active Directory enterprise.
+
+## Other Courses and Training
+- Zero Point BOF Development & Tradecraft
 
